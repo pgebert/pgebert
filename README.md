@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 🎯 Passionate about data science and machine learning
 - 🎄 Currently participating in advent of code 
 - 🌱 Currently learning Kotlin and Spring Boot
+- 🧪 Check out my gitub [gists](https://gist.github.com/pgebert)
  
  
 ## 📬 Contact
