@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  
 - 🚀 Software developer based in Karlsruhe (Germany)
 - 🎯 Passionate about data science and machine learning
-- 🔭 Currently participating in [project euler](https://projecteuler.net/)
+- 🥳 Currently participating in [project euler](https://projecteuler.net/)
 - 🌱 Currently learning Kotlin and Spring Boot
 - 🧪 Check out my gitub [gists](https://gist.github.com/pgebert)
  
