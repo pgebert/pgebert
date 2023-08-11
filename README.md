@@ -23,12 +23,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🌱 Currently playing around with chatGPT, LLAMA and langchain
+
 -->
  
 - 🚀 Software developer based in Karlsruhe (Germany)
 - 🎯 Passionate about data science and machine learning
 - 📢 Currently participating in [project euler](https://projecteuler.net/)
-- 🌱 Currently playing around with chatGPT, LLAMA and langchain
+- 🌱 Currently working on [projektron-bcs-cli](https://github.com/pgebert/projektron-bcs-cli)
 - 🧪 Check out my gitub [gists](https://gist.github.com/pgebert)
 
 
