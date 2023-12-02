@@ -25,12 +25,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 - 🌱 Currently playing around with chatGPT, LLAMA and langchain
+- 📢 Currently participating in [project euler](https://projecteuler.net/)
+
 
 -->
  
 - 🚀 Software developer based in Karlsruhe (Germany)
 - 🎯 Passionate about data science and machine learning
-- 📢 Currently participating in [project euler](https://projecteuler.net/)
+- 📢 Currently participating in [advent-of-code](https://github.com/pgebert/advent-of-code-2023)
 - 🌱 Currently working on [projektron-bcs-cli](https://github.com/pgebert/projektron-bcs-cli)
 - 🧪 Check out my gitub [gists](https://gist.github.com/pgebert)
 
